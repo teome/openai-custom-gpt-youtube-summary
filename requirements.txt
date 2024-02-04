@@ -1,0 +1,5 @@
+fastapi==0.109.1
+modal==0.55.4103
+openai==1.11.0
+pydantic==2.6.0
+pytube==15.0.0
